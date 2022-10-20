@@ -1,0 +1,15 @@
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\bin\Debug\net6.0\Üçgen-Çizme.exe
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\bin\Debug\net6.0\Üçgen-Çizme.deps.json
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\bin\Debug\net6.0\Üçgen-Çizme.runtimeconfig.json
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\bin\Debug\net6.0\Üçgen-Çizme.dll
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\bin\Debug\net6.0\Üçgen-Çizme.pdb
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\obj\Debug\net6.0\Üçgen-Çizme.csproj.AssemblyReference.cache
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\obj\Debug\net6.0\Üçgen-Çizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\obj\Debug\net6.0\Üçgen-Çizme.AssemblyInfoInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\obj\Debug\net6.0\Üçgen-Çizme.AssemblyInfo.cs
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\obj\Debug\net6.0\Üçgen-Çizme.csproj.CoreCompileInputs.cache
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\obj\Debug\net6.0\Üçgen-Çizme.dll
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\obj\Debug\net6.0\refint\Üçgen-Çizme.dll
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\obj\Debug\net6.0\Üçgen-Çizme.pdb
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\obj\Debug\net6.0\Üçgen-Çizme.genruntimeconfig.cache
+C:\Users\gokha\Desktop\Pratikler\Üçgen-Çizme\obj\Debug\net6.0\ref\Üçgen-Çizme.dll
